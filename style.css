@@ -1,0 +1,24 @@
+input {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  border: 1px solid rgb(202, 199, 199);
+}
+
+span {
+  padding: 10px;
+  font-size: 0.8em;
+  color: rgba(248, 36, 36, 0.575);
+}
+
+.error {
+  background-color: rgba(248, 36, 36, 0.219);
+  border: 1px solid rgba(248, 36, 36, 0.575);
+}
+
+button {
+  width: 100%;
+  padding: 10px 20px;
+  border-radius: 25px;
+  background-color: rgb(255, 251, 0);
+}/*# sourceMappingURL=style.css.map */
